@@ -1,6 +1,5 @@
 # SQL Backup     
 
-
 The purpose of this Script in conjuction with Windows Scheduler is to execute periodocally Backup all the Databases in a Microsoft SQL Server Instance.
 The main features of this Script are:
    - Removes Backups older then 5 days;
